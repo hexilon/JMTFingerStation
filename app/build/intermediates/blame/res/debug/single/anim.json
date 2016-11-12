@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\register_title_text_enter.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\anim\\register_title_text_enter.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\register_title_text_exit.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\anim\\register_title_text_exit.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle4.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\anim\\cycle4.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_out.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\anim\\activity_out.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_in.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\anim\\activity_in.xml"
+    }
+]

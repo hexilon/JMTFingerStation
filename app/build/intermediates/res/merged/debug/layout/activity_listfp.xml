@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EEEEEE"
+        android:paddingBottom="6dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="6dp"
+        android:text="@string/title_user"
+        android:textSize="12sp" />
+
+    <View style="@style/view_line" />
+
+    <LinearLayout
+        android:id="@+id/rl_switch_notification"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/btn_bottom_selector" >
+
+        <Switch
+            android:id="@+id/switch1"
+            style="@style/widget_gender_switch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/btn_bottom_selector"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dip"
+            android:paddingRight="10dp"
+            android:switchMinWidth="50dp"
+            android:text="@string/fingerprint_screen_unlock"
+            android:textSize="@dimen/text_size"
+            android:checked="true" />
+    </LinearLayout>
+
+    <View
+        style="@style/view_line"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/rl_switch_sleepunlock"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/btn_bottom_selector"
+        android:visibility="gone" >
+
+        <Switch
+            android:id="@+id/switch2"
+            style="@style/widget_gender_switch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_bottom_selector"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dip"
+            android:paddingRight="10dp"
+            android:switchMinWidth="50dp"
+            android:text="@string/fingerprint_sleep_unlock"
+            android:textSize="@dimen/text_size" />
+    </RelativeLayout>
+
+    <View
+        style="@style/view_line"
+        android:visibility="visible" />
+
+    <RelativeLayout
+        android:id="@+id/rl_switch_doubleclick"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/btn_bottom_selector"
+        android:visibility="visible" >
+
+        <Switch
+            android:id="@+id/switch3"
+            style="@style/widget_gender_switch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_bottom_selector"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dip"
+            android:paddingRight="10dp"
+            android:switchMinWidth="50dp"
+            android:text="@string/fingerprint_double_click"
+            android:textSize="@dimen/text_size"
+            android:checked="false" />
+    </RelativeLayout>
+
+    <View
+        style="@style/view_line"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/rl_switch_nav"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/btn_bottom_selector"
+        android:visibility="gone" >
+
+        <Switch
+            android:id="@+id/switch4"
+            style="@style/widget_gender_switch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_bottom_selector"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dip"
+            android:paddingRight="10dp"
+            android:switchMinWidth="50dp"
+            android:text="@string/fingerprint_nav"
+            android:textSize="@dimen/text_size" />
+    </RelativeLayout>
+
+    <View
+        style="@style/view_line"
+        android:visibility="gone"  />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_bottom_selector"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/btn_app_unlock_test"
+            android:layout_width="match_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_bottom_selector"
+            android:gravity="left|center_vertical"
+            android:onClick="onClick"
+            android:paddingLeft="20dip"
+            android:text="@string/fingerprint_applock"
+            android:textSize="@dimen/text_size"
+            android:typeface="serif" />
+    </RelativeLayout>
+
+    <View style="@style/view_line" />
+
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_bottom_selector"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/btn_test"
+            android:layout_width="match_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_bottom_selector"
+            android:gravity="left|center_vertical"
+            android:onClick="onClick"
+            android:paddingLeft="20dip"
+            android:textSize="@dimen/text_size"
+            android:text="@string/fingerprint_test"
+            android:typeface="serif" />
+    </RelativeLayout>
+
+    <View
+        style="@style/view_line"
+        android:visibility="visible" />
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EEEEEE"
+        android:paddingBottom="6dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="6dp"
+        android:text="@string/title_fingerprint"
+        android:textSize="12sp" />
+
+    <View style="@style/view_line" />
+
+    <View
+        style="@style/view_line"
+        android:layout_height="100dp"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_bottom_selector" >
+
+        <Button
+            android:id="@+id/btn_add"
+            android:layout_width="match_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_bottom_selector"
+            android:gravity="left|center_vertical"
+            android:onClick="onClick"
+            android:paddingLeft="20dip"
+            android:text="@string/fingerprint_add"
+            android:textColor="@color/red"
+            android:textSize="@dimen/text_size"
+            android:typeface="serif" />
+    </RelativeLayout>
+
+    <View style="@style/view_line" />
+
+
+    <ListView
+        android:id="@+id/list_fp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="#E6E6E6"
+        android:dividerHeight="1dp" >
+    </ListView>
+
+    <View style="@style/view_line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_bottom_selector" >
+
+        <Button
+            android:id="@+id/btn_about"
+            android:layout_width="match_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_bottom_selector"
+            android:gravity="left|center_vertical"
+            android:onClick="onClick"
+            android:paddingLeft="20dip"
+            android:text="@string/fingerprint_about"
+            android:textSize="@dimen/text_size"
+            android:typeface="serif"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+</LinearLayout>

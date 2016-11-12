@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fp_empty.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\fp_empty.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\empty_press.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\empty_press.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_bg_disabled_emui9.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_disabled_emui9.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_03.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_03.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_00.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_00.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_05.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_05.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_emui9.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_emui9.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_bg_on_press_emui9.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_on_press_emui9.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_02.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_02.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_06.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_06.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_bg_off_emui9.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_off_emui9.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_activated_pressed_emui9.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activated_pressed_emui9.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_09.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_09.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_bg_on_emui9.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_on_emui9.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_04.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_04.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_disabled_emui9.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled_emui9.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_07.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_07.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_bg_off_press_emui9.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_off_press_emui9.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_10.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_10.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fp_empty_press.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\fp_empty_press.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_08.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_08.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\empty.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\empty.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_off_pressed_emui9.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_off_pressed_emui9.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_bar_01.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-xhdpi\\process_bar_01.png"
+    }
+]

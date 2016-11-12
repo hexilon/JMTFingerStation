@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '23.0.3'
+    defaultConfig {
+        applicationId "com.dkl.jmtfps"
+        minSdkVersion 22
+        targetSdkVersion 22
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+
+    }
+
+    dexOptions {
+        javaMaxHeapSize "7g"
+    }
+
+}
+
+dependencies {
+    compile files('libs/GifView.jar')
+    compile files('libs/android-support-v4.jar')
+    compile files('libs/classes.jar')
+}
+

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\screen_finger.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-mdpi\\screen_finger.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\off.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-mdpi\\off.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\on.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-mdpi\\on.png"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\screen_finger_tip.png",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-mdpi\\screen_finger_tip.png"
+    }
+]

@@ -1,0 +1,78 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <LinearLayout
+        android:id="@+id/fingerlayout"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/fingernotice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:text="@string/finger_notice"
+            android:textColor="#1E1E1E"
+            android:textSize="15sp" />
+
+        <com.ant.liao.GifView
+            android:id="@+id/id_lockui_fp_gi"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="100dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/toDigital"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/digital_btn"
+            android:onClick="onClick"
+            android:text="@string/toDigital"
+            android:textColor="#1e1e1e"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/digitallayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/digital_notice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dp"
+            android:gravity="center"
+            android:text="@string/digital_notice"
+            android:textColor="#1E1E1E"
+            android:textSize="15sp" />
+
+        <com.dkl.jmtfps.view.NumberPad
+            android:id="@+id/id_lockui_numberpad"
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:layout_alignParentBottom="true"
+            android:background="#33ffffff" />
+
+        <com.dkl.jmtfps.view.ProcessIndication
+            android:id="@+id/id_lockui_indication"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_above="@id/id_lockui_numberpad"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="50dp" />
+    </RelativeLayout>
+
+</FrameLayout>

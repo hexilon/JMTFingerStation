@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FingerStation</string>
+    <string name="title_fingerprint">指纹</string>
+    <string name="title_user">应用</string>
+    <string name="fingerprint_screen_unlock">屏幕解锁</string>
+    <string name="fingerprint_sleep_unlock">熄屏解锁</string>
+    <string name="fingerprint_double_click">指纹单击</string>
+    <string name="fingerprint_nav">滑动翻页</string>
+    <string name="fingerprint_test">比对测试</string>
+    <string name="fingerprint_add">新建指纹</string>
+    <string name="fingerprint_about">关于指纹</string>
+    <string name="about_version_name">版本:%1$s</string>
+    <string name="about_sdk_version_name">SDK版本:%1$s</string>
+    <string name="about_title">茂丞科技指纹解锁</string>
+    <string name="about_web">官网:http://www.brk-tech.com/</string>
+    <string name="fingerprint_applock">应用列表</string>
+    <string name="app_use_lock">%1$d个应用已锁定</string>
+    <string name="record_fp_title_first">放置手指</string>
+    <string name="record_fp_title">重复按压手指</string>
+    <string name="record_fp_content_first">将手指放置在背面的指纹识别器上 </string>
+    <string name="record_fp_content">录入完整指纹需持续按压多次</string>
+    <string name="record_fp_content_remove_first">感觉到振动后再抬起手指重复录入</string>
+    <string name="record_fp_content_remove">请抬起手指</string>
+    <string name="record_fp_duplicate">指纹已录过，请更换手指</string>>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="fp_name">指纹名称</string>
+    <string name="rename">重命名</string>
+    <string name="delete">删除</string>
+    <string name="openApp">启动应用</string>
+    <string name="finish">完成</string>
+    <string name="delete_ok">删除成功!</string>
+    <string name="rename_ok">重命名成功!</string>
+    <string name="record_successfully">指纹已成功录取</string>
+    <string name="fingerprint_unlock_message">使用指纹解锁</string>
+    <string name="fingerprint_unlock_failure">验证失败，请再试一次</string>
+    <string name="fingerprint_openfail">指纹无权限!打开失败!</string>
+    <string name="toDigital">通过密码登录</string>
+    <string name="finger_notice">已设置指纹\n请使用指纹感应器进行校验</string>
+    <string name="digital_notice">解除加密\n请输入正确的数字密码</string>
+    <string name="no_finger_about_app">无指纹用来加密应用!</string>
+    <string name="no_finger_about_unlock">无指纹用来解锁!</string>
+    <string name="txt_sorry_procedure_error_exit">很抱歉,程序出现异常,需要重启应用</string>
+
+</resources>

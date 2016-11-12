@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:padding="20dp" >
+
+    <ImageView
+        android:id="@+id/id_img_fp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/fingerprint_10" />
+
+    <TextView
+        android:id="@+id/id_tv_fp_rename"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_img_fp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/fp_name"
+        android:textSize="@dimen/text_size" />
+
+    <Button
+        android:id="@+id/id_btn_openapp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/id_btn_rename"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/digital_btn"
+        android:onClick="onClick"
+        android:text="@string/openApp"
+        android:visibility="gone"
+         />
+
+    <Button
+        android:id="@+id/id_btn_rename"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/id_btn_delete"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/digital_btn"
+        android:onClick="onClick"
+        android:text="@string/rename" />
+
+    <Button
+        android:id="@+id/id_btn_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/digital_btn"
+        android:onClick="onClick"
+        android:text="@string/delete"
+        android:textColor="#ff0000" />
+
+</RelativeLayout>

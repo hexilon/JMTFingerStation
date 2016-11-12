@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fingerprint_gif.gif",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-mdpi\\fingerprint_gif.gif"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fingerprintloading.gif",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\drawable-mdpi\\fingerprintloading.gif"
+    }
+]

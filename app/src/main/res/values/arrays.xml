@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="number_bg_array">
+        <item>@drawable/number_0</item>
+        <item>@drawable/number_1</item>
+        <item>@drawable/number_2</item>
+        <item>@drawable/number_3</item>
+        <item>@drawable/number_4</item>
+        <item>@drawable/number_5</item>
+        <item>@drawable/number_6</item>
+        <item>@drawable/number_7</item>
+        <item>@drawable/number_8</item>
+        <item>@drawable/number_9</item>
+        <item>@drawable/delete_bg</item>
+    </integer-array>
+
+    <!-- 加密应用要过滤掉的包名 -->
+    <string-array name="exclude_app">
+        <item>"com.dkl.shx.fpu"</item>
+        <item>"com.android.phone.EmergencyDialer"</item>
+    </string-array>
+    <!-- 需要加密的系统app的包名 -->
+    <string-array name="needlock_systemapp">
+        <item>"com.android.settings"</item>
+    </string-array>
+
+</resources>

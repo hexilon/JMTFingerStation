@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\hexh\tools\android\JMTFingerStation\app\libs\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="346559999598f6d1cdfbf562fa3a6549c2762141">
+        <dex dex="D:\hexh\tools\android\JMTFingerStation\app\build\intermediates\transforms\dex\debug\folders\1000\2\classes_613fe5e39f2b4130e83124a615324cc68a13df79\classes.dex" />
+        <dex dex="D:\hexh\tools\android\JMTFingerStation\app\build\intermediates\transforms\dex\debug\folders\1000\2\classes_613fe5e39f2b4130e83124a615324cc68a13df79\classes2.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hexh\tools\android\JMTFingerStation\app\libs\GifView.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a518235931001b94e87540c99bd13258f614622">
+        <dex dex="D:\hexh\tools\android\JMTFingerStation\app\build\intermediates\transforms\dex\debug\folders\1000\2\GifView_65788193b56b0a376d43d588cb872ea8d8af140a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hexh\tools\android\JMTFingerStation\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="D:\hexh\tools\android\JMTFingerStation\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_504e757132660c1524d90b46b042bae84a8766cc\classes.dex" />
+    </item>
+
+</items>

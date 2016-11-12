@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_item_list.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\app_item_list.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addfp.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\activity_addfp.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_app.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\activity_list_app.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_managefp.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\activity_managefp.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprocess.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\fingerprocess.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fp_item_list.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\fp_item_list.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aboutfp.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\activity_aboutfp.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listfp.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\activity_listfp.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_camera.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\test_camera.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_layout.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\head_layout.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\match.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\match.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lock_ui.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\activity_lock_ui.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_list_app.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\activity_open_list_app.xml"
+    },
+    {
+        "merged": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_item_open_list.xml",
+        "source": "D:\\hexh\\tools\\android\\JMTFingerStation\\app\\src\\main\\res\\layout\\app_item_open_list.xml"
+    }
+]

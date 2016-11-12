@@ -1,0 +1,24 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <declare-styleable name="ProcessIndication">
+        <attr name="process_index" format="integer" />
+        <attr name="shader_start_color" format="color|reference" />
+        <attr name="shader_end_color" format="color|reference" />
+        <attr name="shader_width" format="dimension" />
+    </declare-styleable>
+
+    <style name="widget_gender_switch">
+        <item name="android:textOff">""</item><!-- 此设置不需要文字，只显示背景图的开关 -->
+        <item name="android:textOn">""</item>
+        <item name="android:thumb">@drawable/switch_thumb</item><!--滑块格式9.png -->
+        <item name="android:thumbTextPadding">8dp</item><!-- 用来控制背景图片和文字之间的间距来控制switch整体宽度 -->
+        <item name="android:track">@drawable/switch_track</item><!-- 背景图的开关 格式9.png-->
+    </style>
+    
+    <style name="view_line">
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#B6BCCC</item>
+    </style>
+    
+</resources>
